@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4u0ESIpLxfaYSUtwaUo3TFg5l+Lh+AK88RSZfDvez6xfE8zzrbXnhezxme9H7lV4ewvsn/naAc8ekfcQh1iHFA==",
+  "success": true,
+  "projectFilePath": "D:\\Проги\\LinuxAppTest\\LinuxAppTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
